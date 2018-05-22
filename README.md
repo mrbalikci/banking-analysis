@@ -1,6 +1,6 @@
 ## Banking Deserts
 
-* "What is the relationship between poverty, age, and population with the number of banks in a given area?"
+"What is the relationship between poverty, age, and population with the number of banks in a given area?"
 
 ### Details 
   
