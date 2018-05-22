@@ -20,13 +20,15 @@
 
 * Poverty Rate vs. Bank Count
 
-* The plots were saved in `output` folder. 
+* The plots were saved in `output` folder.
+
 
 ### Tools Used
 * Python
 * Jupyter Notebook
 * Pandas
 * Matplotlib
+* Numpy
 * Google API
 * Geocode API
 * Radar API
