@@ -22,7 +22,6 @@
 
 * The plots were saved in `output` folder.
 
-
 ### Tools Used
 * Python
 * Jupyter Notebook
